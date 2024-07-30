@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TCPClient2/1.0.0": {
+        "dependencies": {
+          "ChatLib2": "1.0.0"
+        },
+        "runtime": {
+          "TCPClient2.dll": {}
+        }
+      },
+      "ChatLib2/1.0.0": {
+        "runtime": {
+          "ChatLib2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPClient2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChatLib2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
