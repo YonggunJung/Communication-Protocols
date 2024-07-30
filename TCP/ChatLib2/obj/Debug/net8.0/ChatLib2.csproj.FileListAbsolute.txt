@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ChatLib2\bin\Debug\net8.0\ChatLib2.deps.json
+C:\Users\admin\source\repos\ChatLib2\bin\Debug\net8.0\ChatLib2.dll
+C:\Users\admin\source\repos\ChatLib2\bin\Debug\net8.0\ChatLib2.pdb
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ChatLib2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ChatLib2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ChatLib2.AssemblyInfo.cs
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ChatLib2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ChatLib2.dll
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\refint\ChatLib2.dll
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ChatLib2.pdb
+C:\Users\admin\source\repos\ChatLib2\obj\Debug\net8.0\ref\ChatLib2.dll
